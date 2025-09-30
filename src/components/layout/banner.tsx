@@ -4,7 +4,7 @@ import "@/app/globals.css";
 
 export function Banner() {
     return (
-        <div className="h-152 md:h-140">
+        <div className="h-170 md:h-140">
             <div className="font-birthstone text-7xl text-center mb-4">
                 LevePro
             </div>
