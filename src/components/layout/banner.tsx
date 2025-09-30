@@ -23,13 +23,27 @@ export function Banner() {
                         </div>
                         {/* Texto 1 */}
                         <div className="mt-6 md:absolute md:bottom-0 md:left-95 justify-center hidden md:block">
-                            <div className="w-80 h-auto">
-                                Lorem ipsum, dolor sit amet consectetur
-                                adipisicing elit. Consequatur quisquam sed iure
-                                a, in corporis consectetur officiis velit
-                                obcaecati molestias ab adipisci dolores error
-                                natus facilis, architecto deleniti, labore
-                                cupiditate?
+                            <div className="w-80 h-auto pl-4">
+                                <ul className="list-disc">
+                                    Suplemento 100% em pó:
+                                    <li>
+                                        Alta estabilidade físico-química (não
+                                        precisa refrigeração)
+                                    </li>
+                                    <li>
+                                        Maior vida útil graças à baixa atividade
+                                        de água
+                                    </li>
+                                    <li>Fácil preparo: basta diluir em água</li>
+                                    <li>
+                                        Embalado em sachês individuais:
+                                        praticidade no transporte e consumo
+                                    </li>
+                                    <li>
+                                        Dose padronizada: controle exato da
+                                        ingestão diária
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                         {/* Linha baixo */}
@@ -40,12 +54,14 @@ export function Banner() {
                         <div className="mt-6 md:absolute md:top-0 md:right-95 flex flex-col justify-center">
                             <h3 className="text-xl font-bold">Mocaccino</h3>
                             <div className="w-80 h-auto">
-                                Lorem ipsum, dolor sit amet consectetur
-                                adipisicing elit. Consequatur quisquam sed iure
-                                a, in corporis consectetur officiis velit
-                                obcaecati molestias ab adipisci dolores error
-                                natus facilis, architecto deleniti, labore
-                                cupiditate?
+                                O LevePro é um suplemento alimentar em pó, com
+                                ingredientes nutricionalmente funcionais, 100%
+                                em forma desidratada, acondicionado em sachês
+                                individuais. A fórmula combina proteína de soro
+                                do leite (whey protein), leite em pó desnatado,
+                                cacau 100%, café solúvel, goma xantana e
+                                adoçante natural, promovendo energia, saciedade
+                                e praticidade.
                             </div>
                         </div>
                     </div>
